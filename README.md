@@ -18,9 +18,9 @@ yarn start
 npm run start
 ```
 
-Open url: http://localhost:9000/graphiql
+Open url: http://localhost:9000/playground
 
-![](.README/2018-02-17-15-39-30.png)
+![](.README/2018-02-19-18-32-07.png)
 
 ## Environments
 
@@ -33,5 +33,5 @@ Environments are located in file `.env`.
 
 ## License
 
-Nest is [MIT licensed](LICENSE).
+[MIT license](LICENSE).
 
